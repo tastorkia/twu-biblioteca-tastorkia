@@ -15,8 +15,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="435">
-                <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <first_editor relative-caret-position="405">
+                <caret line="27" selection-start-line="27" selection-end-line="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -59,16 +59,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555017436685</updated>
-      <workItem from="1555017439754" duration="690000" />
+      <workItem from="1555017439754" duration="1057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="690000" />
+    <option name="totallyTimeSpent" value="1057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="62" width="1400" height="925" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -79,7 +78,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32893157" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -107,8 +106,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="435">
-            <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <first_editor relative-caret-position="405">
+            <caret line="27" selection-start-line="27" selection-end-line="28" />
           </first_editor>
           <second_editor />
         </state>
